@@ -13,11 +13,11 @@ setup(
     long_description=long_description,
 
     # The project URL.
-    url='https://github.com/Runscope/httpbin',
+    url='https://github.com/ugurarpaci/httpbin.git',
 
     # Author details
-    author='Runscope',
-    author_email='httpbin@runscope.com',
+    author='Ugur ARPACI',
+    author_email='ugurarpaci@gmail.com',
 
     # Choose your license
     license='MIT',
